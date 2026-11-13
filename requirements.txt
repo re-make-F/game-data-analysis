@@ -1,0 +1,12 @@
+# 实测可用版本（Anaconda, Python 3.12.4）
+# 安装：pip install -r requirements.txt
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.8.4
+seaborn==0.13.2
+SQLAlchemy==2.0.30
+PyMySQL==1.2.0
+python-dotenv==0.21.0
+notebook==7.0.8
+ipykernel==6.28.0

@@ -1,0 +1,10 @@
+# 二进制文件：不要做换行转换，否则图片/CSV 的字节会变
+*.png binary
+*.csv -text
+
+# 文本文件统一 LF
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.example text eol=lf
+.gitignore text eol=lf

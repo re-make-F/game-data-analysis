@@ -1,0 +1,22 @@
+# 凭据
+.env
+notebook/.env
+*.env
+
+# 原始数据：直接放 CSV（clone 下来就能跑，不用再解压）
+# zip 是同一份 CSV 的压缩包，不入库
+data/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 系统
+Thumbs.db
+.DS_Store
