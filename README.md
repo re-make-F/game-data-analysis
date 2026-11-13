@@ -235,8 +235,6 @@ notebook 里只剩「连上 MySQL，把表读成 `df`」这一件事。
 
 #### 图 1 · 评分覆盖偏差
 
-![fig1_score_coverage](D:\Project_code\project\game-data-analysis\output\fig1_score_coverage.png)
-
 **左图（按发行年，折线 + 面积填充）**
 
 - 只画**一条线**：变量只有一个（覆盖率），单系列不需要图例框，标题已经点明对象。
@@ -262,8 +260,6 @@ notebook 里只剩「连上 MySQL，把表读成 `df`」这一件事。
   这不只是方便，也是**无障碍替代**——色觉障碍或读屏用户无法从图里取数。
 
 #### 图 2 · 头部集中度
-
-![fig2_concentration](D:\Project_code\project\game-data-analysis\output\fig2_concentration.png)
 
 **左图：洛伦兹曲线**
 
